@@ -5,5 +5,5 @@
 Com a IaC, são criados arquivos de configuração que incluem as especificações da sua infraestrutura, facilitando a edição e a distribuição de configurações.
 Ela também assegura o provisionamento do mesmo ambiente todas as vezes. 
 
-Neste projeto iremos criar um script onde será provisionado um servidor web automaticamente.
+Neste projeto foi criado um script provisionando um servidor web automaticamente.
 Um servidor web é um software e hardware que usa HTTP (Hypertext Transfer Protocol) e outros protocolos para responder a solicitações de clientes feitas pela WWW. 
